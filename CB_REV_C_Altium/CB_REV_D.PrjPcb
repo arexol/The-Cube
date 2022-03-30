@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=FULL_CB_80_Pin_REV_C.SchDoc
+DocumentPath=FULL_CB_80_Pin_REV_D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MBQNMPBV
 
 [Document3]
-DocumentPath=FULL_CB_INTEL_REV_C.SchDoc
+DocumentPath=FULL_CB_INTEL_REV_D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KOTBDQOY
 
 [Document4]
-DocumentPath=FULL_CB_Plugs_REV_C.SchDoc
+DocumentPath=FULL_CB_Plugs_REV_D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IEYQIANY
 
 [Document5]
-DocumentPath=FULL_CB_Power_REV_C.SchDoc
+DocumentPath=FULL_CB_Power_REV_D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DMKJTPXX
 
 [Document6]
-DocumentPath=FULL_CB_REV_C.PcbDoc
+DocumentPath=FULL_CB_REV_D.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MEGPMIHM
 
 [Document7]
-DocumentPath=FULL_CB_Servo_REV_C.SchDoc
+DocumentPath=FULL_CB_Servo_REV_D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GHYPMGMP
 
 [Document8]
-DocumentPath=FULL_CB_tp_REV_C.SchDoc
+DocumentPath=FULL_CB_tp_REV_D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,7 +174,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NBDWHEVF
 
 [Document9]
-DocumentPath=FULL_CB_REV_C.PcbLib
+DocumentPath=FULL_CB_REV_D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PEVKFRES
 
 [Document10]
-DocumentPath=CB_REV_C.SCHLIB
+DocumentPath=CB_REV_D.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
