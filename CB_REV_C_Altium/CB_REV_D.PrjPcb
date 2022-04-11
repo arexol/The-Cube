@@ -190,6 +190,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUXHAFSR
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCA_0005_FULL_CB\Design Rule Check - FULL_CB_REV_D.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=F:\Current_Work\00_0_git\px4_hardware\libraries\altium\*.*
 IncludeSubFolders=1
